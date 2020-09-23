@@ -28,16 +28,16 @@ Exercises are outlined in the `index.js` file, please read the instructions care
 
 Using VSCode and Command Line:
 
-1. Fork repo and add TL as collaborator on Github.
-2. Clone your fork (not Lambda's repo by mistake!).
-3. `cd` into your newly cloned repository.
-4. Create a new branch by typing `git checkout -b <firstName-lastName>`.
+1. Fork repo and add TL as collaborator on Github. X
+2. Clone your fork (not Lambda's repo by mistake!). X
+3. `cd` into your newly cloned repository. X
+4. Create a new branch by typing `git checkout -b <firstName-lastName>`. X
 
 ### Task 2: Complete MVP Requirements
 
-Find the `index.js` file and complete the tasks as written. 
+Find the `index.js` file and complete the tasks as written. X
 
-As you work on your code you should make use of `console.log` to check your progress and debug.
+As you work on your code you should make use of `console.log` to check your progress and debug. X
 
 ### Task 2b: Exit Ticket
 
@@ -49,15 +49,15 @@ The completion of these questions is mandatory for MVP. However, passing the qui
 
 After you have completed the requirements, try any of the following challenges. As always, note that these may require additional research beyond what you learned in this module.
 
-- [ ] See tasks labelled stretch. Please ensure you've completed MVP before you attempt the stretch goals. Note that you may need to look forward to tomorrow's training kit in order to complete the task. 
+- [X ] See tasks labelled stretch. Please ensure you've completed MVP before you attempt the stretch goals. Note that you may need to look forward to tomorrow's training kit in order to complete the task. 
 
 ## Submission format
 
 Follow these steps for completing your project.
 
-1. [ ] Submit a pull request to merge `<firstName-lastName>` branch into master. **Please don't merge your own pull request**
-2. [ ] Add your TL as a reviewer on the pull-request
-3. [ ] Your TL will count the project as complete by merging the branch back into master
+1. [X ] Submit a pull request to merge `<firstName-lastName>` branch into master. **Please don't merge your own pull request**
+2. [X ] Add your TL as a reviewer on the pull-request
+3. [X ] Your TL will count the project as complete by merging the branch back into master
 
 ## Resources
 
